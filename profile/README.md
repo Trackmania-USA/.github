@@ -1,12 +1,3 @@
-## Hi there 👋
+# Trackmania USA
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Trackmania USA is not affiliate with Nadeo. We are a group of gamers, mostly from the US, and are passionate about Trackmania and Open Source Software! This organization is where we collaborated on open source projects related to the great game of all time, [Trackmania](https://www.trackmania.com/).
